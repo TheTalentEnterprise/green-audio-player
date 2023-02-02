@@ -38,7 +38,11 @@
     "gulp-uglify": "^3.0.1",
     "gulp-util": "^3.0.8",
     "mocha": "^5.2.0",
-    "vinyl-source-stream": "^2.0.0"
+    "vinyl-source-stream": "^2.0.0",
+    "acorn": "^7.1.1",
+    "browserslist": "^4.9.1",
+    "caniuse-lite": "^1.0.30001032",
+    "node-sass": "^4.13.1"
   },
   "keywords": [
     "audio-player",
@@ -51,9 +55,6 @@
     "music-player"
   ],
   "dependencies": {
-    "acorn": "^7.1.1",
-    "browserslist": "^4.9.1",
-    "caniuse-lite": "^1.0.30001032",
-    "node-sass": "^4.13.1"
+
   }
 }
